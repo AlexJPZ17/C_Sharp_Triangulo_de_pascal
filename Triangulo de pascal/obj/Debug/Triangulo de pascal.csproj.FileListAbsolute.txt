@@ -1,0 +1,12 @@
+D:\Mis Documentos\Projects Visual Studio 2014\Visual C#\Triangulo de pascal\Triangulo de pascal\bin\Debug\Triangulo de pascal.exe.config
+D:\Mis Documentos\Projects Visual Studio 2014\Visual C#\Triangulo de pascal\Triangulo de pascal\bin\Debug\Triangulo de pascal.exe
+D:\Mis Documentos\Projects Visual Studio 2014\Visual C#\Triangulo de pascal\Triangulo de pascal\bin\Debug\Triangulo de pascal.pdb
+D:\Mis Documentos\Projects Visual Studio 2014\Visual C#\Triangulo de pascal\Triangulo de pascal\obj\Debug\Triangulo de pascal.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Projects Visual Studio 2014\Visual C#\Triangulo de pascal\Triangulo de pascal\obj\Debug\Triangulo de pascal.exe
+D:\Mis Documentos\Projects Visual Studio 2014\Visual C#\Triangulo de pascal\Triangulo de pascal\obj\Debug\Triangulo de pascal.pdb
+E:\Mis Documentos\Projects Visual Studio 2014\Visual C#\Triangulo de pascal\Triangulo de pascal\bin\Debug\Triangulo de pascal.exe.config
+E:\Mis Documentos\Projects Visual Studio 2014\Visual C#\Triangulo de pascal\Triangulo de pascal\obj\Debug\Triangulo de pascal.exe
+E:\Mis Documentos\Projects Visual Studio 2014\Visual C#\Triangulo de pascal\Triangulo de pascal\obj\Debug\Triangulo de pascal.pdb
+E:\Mis Documentos\Projects Visual Studio 2014\Visual C#\Triangulo de pascal\Triangulo de pascal\bin\Debug\Triangulo de pascal.exe
+E:\Mis Documentos\Projects Visual Studio 2014\Visual C#\Triangulo de pascal\Triangulo de pascal\bin\Debug\Triangulo de pascal.pdb
+E:\Mis Documentos\Projects Visual Studio 2014\Visual C#\Triangulo de pascal\Triangulo de pascal\obj\Debug\Triangulo de pascal.csprojResolveAssemblyReference.cache
